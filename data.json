@@ -1,0 +1,154 @@
+{
+  "dates": [
+    {
+      "date": "2025-06-17",
+      "opening": {
+        "title": "",
+        "name": "guest",
+        "userId": 212400
+      },
+      "closing": {
+        "title": "Sister",
+        "name": "qq",
+        "userId": 212414
+      }
+    },
+    {
+      "date": "2025-08-28",
+      "opening": {
+        "title": "Brother",
+        "name": "anobanza",
+        "userId": 212415
+      }
+    },
+    {
+      "date": "2025-08-24"
+    }
+  ],
+  "users": [
+    {
+      "id": 212400,
+      "username": "guest",
+      "password": "guest123",
+      "enabled": true
+    },
+    {
+      "id": 212401,
+      "username": "admin",
+      "password": "changeme23@",
+      "enabled": true
+    },
+    {
+      "id": 212412,
+      "username": "me",
+      "password": "me",
+      "title": "Brother",
+      "firstName": "me",
+      "lastName": "me",
+      "enabled": true
+    },
+    {
+      "id": 212413,
+      "username": "xx",
+      "password": "xx",
+      "title": "Brother",
+      "firstName": "xx",
+      "lastName": "xx",
+      "enabled": true
+    },
+    {
+      "id": 212415,
+      "username": "anobanza",
+      "password": "123",
+      "title": "Brother",
+      "firstName": "Aristhide",
+      "lastName": "Nobanza",
+      "enabled": true
+    },
+    {
+      "id": 212416,
+      "username": "Jane",
+      "password": "123",
+      "title": "Sister",
+      "firstName": "Matha",
+      "lastName": "Donovan",
+      "enabled": true
+    },
+    {
+      "id": 212417,
+      "username": "mallen",
+      "password": "123",
+      "title": "Sister",
+      "firstName": "Maurine",
+      "lastName": "Allen",
+      "enabled": true
+    },
+    {
+      "id": 212418,
+      "username": "Allen",
+      "password": "123",
+      "title": "Brother",
+      "firstName": "Paul",
+      "lastName": "Allen",
+      "enabled": true
+    }
+  ],
+  "cancellations": [
+    {
+      "userId": 212412,
+      "date": "2025-08-24",
+      "slotType": "closing",
+      "reason": "n/A",
+      "timestamp": "2025-08-16T08:58:57.883Z"
+    },
+    {
+      "userId": 212412,
+      "date": "2025-08-28",
+      "slotType": "opening",
+      "reason": "N?A",
+      "timestamp": "2025-08-16T09:10:09.984Z"
+    },
+    {
+      "userId": 212412,
+      "date": "2025-08-28",
+      "slotType": "opening",
+      "reason": "",
+      "timestamp": "2025-08-16T11:02:47.595Z"
+    },
+    {
+      "userId": 212412,
+      "date": "2025-08-28",
+      "slotType": "closing",
+      "reason": "",
+      "timestamp": "2025-08-16T11:42:46.073Z"
+    },
+    {
+      "userId": 212413,
+      "date": "2025-08-28",
+      "slotType": "opening",
+      "reason": "",
+      "timestamp": "2025-08-16T11:45:16.574Z"
+    },
+    {
+      "userId": 212413,
+      "date": "2025-08-24",
+      "slotType": "opening",
+      "reason": "",
+      "timestamp": "2025-08-16T11:45:32.459Z"
+    },
+    {
+      "userId": 212414,
+      "date": "2025-08-24",
+      "slotType": "closing",
+      "reason": "",
+      "timestamp": "2025-08-16T12:03:09.182Z"
+    },
+    {
+      "userId": 212415,
+      "date": "2025-08-28",
+      "slotType": "closing",
+      "reason": "",
+      "timestamp": "2025-08-16T12:35:19.871Z"
+    }
+  ]
+}
